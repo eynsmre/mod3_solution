@@ -1,0 +1,31 @@
+*{
+	box-sizing: border-box ;
+}
+
+.bg-grey{
+	background-color: rgb(153, 153, 153);
+}
+
+
+
+#doner{
+	position: relative;
+	top: 30px;
+}
+
+.row{
+	width: 100%;
+	--bs-gutter-x: 0;
+
+}
+.container-fluid{
+
+	--bs-gutter-x: 0;
+
+}
+
+ .box{
+ 	position: relative;
+ 	height: 1000px;
+ 	background-color: rgb(153, 153, 153);
+ }
